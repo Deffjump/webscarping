@@ -1,0 +1,17 @@
+{
+  "name": "webscaping01",
+  "version": "1.0.0",
+  "description": "webscraping project wit puppeteer",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  }
+}
